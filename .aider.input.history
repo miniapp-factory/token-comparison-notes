@@ -1,0 +1,62 @@
+
+# 2025-11-22 09:12:21.246695
++Code the following app
++```
++Title: Token Comparison Notes
++
++Description:
++Create a simple app that allows users to manually compare two tokens by writing notes about their differences, strengths, or weaknesses. The app should work fully offline and must not use the internet or external APIs. All information is entered manually by the user.
++
++Functionality:
++ • Display two input fields for token names:
++ 1. “Token A”
++ 2. “Token B”
++ • Add a larger text area labeled “Comparison Notes” where the user can write their observations.
++ • Include a button labeled “Add Comparison” that saves the comparison entry to a visible list.
++ • In a section titled “Saved Comparisons”, show each entry with:
++ • Token A name
++ • Token B name
++ • Comparison Notes
++ • Each saved comparison should include a “Delete” button to remove it individually.
++ • Add a “Clear All” button to delete all saved comparisons at once.
++ • If any of the required fields (Token A, Token B, Notes) are empty, show an error message:
++“Please fill in all fields before adding a comparison.”
++
++UI Requirements:
++ • Use only simple UI elements: text fields, text area, labels, buttons, and a list.
++ • Layout should be clean and easy to understand.
++ • All interactions must update instantly and locally.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-22 09:12:21.248046
++Code the following app
++```
++Title: Token Comparison Notes
++
++Description:
++Create a simple app that allows users to manually compare two tokens by writing notes about their differences, strengths, or weaknesses. The app should work fully offline and must not use the internet or external APIs. All information is entered manually by the user.
++
++Functionality:
++ • Display two input fields for token names:
++ 1. “Token A”
++ 2. “Token B”
++ • Add a larger text area labeled “Comparison Notes” where the user can write their observations.
++ • Include a button labeled “Add Comparison” that saves the comparison entry to a visible list.
++ • In a section titled “Saved Comparisons”, show each entry with:
++ • Token A name
++ • Token B name
++ • Comparison Notes
++ • Each saved comparison should include a “Delete” button to remove it individually.
++ • Add a “Clear All” button to delete all saved comparisons at once.
++ • If any of the required fields (Token A, Token B, Notes) are empty, show an error message:
++“Please fill in all fields before adding a comparison.”
++
++UI Requirements:
++ • Use only simple UI elements: text fields, text area, labels, buttons, and a list.
++ • Layout should be clean and easy to understand.
++ • All interactions must update instantly and locally.
++```
++
++Generate an app logo and update the app metadata title and description.
